@@ -13,17 +13,17 @@ members  :
     ncaruname   : katelynw
     githubuname : kafitzgerald
 
-  - name        : JULIA KENT
-    designation : Software Engineer
-    ncaruname   : jkent
-    githubuname : jukent
-
   - name        : CORA Y. SCHNECK
     designation : Software Engineer
     ncaruname   : cschneck
     githubuname : cyschneck
 
-  - name        : ANISSA ZACHARIAS
+  - name        : CHRISTOPHER DUPUIS
     designation : Software Engineer
-    ncaruname   : anissaz
-    githubuname : anissa111
+    ncaruname   : cdupuis
+    githubuname : cmdupuis3
+
+  - name        : SAM EVANS
+    designation : Software Engineer
+    ncaruname   : sevans2
+    githubuname : Sevans711
