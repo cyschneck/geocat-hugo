@@ -20,10 +20,12 @@ members  :
 
   - name        : CHRISTOPHER DUPUIS
     designation : Software Engineer
-    impactname  : 
     githubuname : cmdupuis3
 
   - name        : SAM EVANS
     designation : Software Engineer
-    impactname  : 
     githubuname : Sevans711
+
+  - name        : DYLAN NELSON
+    designation : Software Engineer
+    githubuname : dylannelson
